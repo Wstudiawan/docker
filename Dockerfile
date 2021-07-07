@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-LABEL maintainer "Haikal Khairuddin <z4nyx@outlook.com>"
+LABEL maintainer "Wahyu Studiawan <manusiasampah7@gmail.com>"
 
 # Malaysian timezone (GMT+5:30)	
 ENV TZ=Asia/Kolkata
